@@ -1,0 +1,39 @@
+Modern-Finance{
+    --azul-escuro: #2C3E50;
+    --verde: #18BC9C;
+    --cinza-claro: #ECF0F1;
+    --branco: #FFFFFF;
+    --dourado: #F39C12;
+}
+
+Tech-Crypto{
+    --preto: #000000;
+    --cinza: #BDC3C7;
+    --azul-eletrico: #3498DB;
+    --verde-neon: #2ECC71;
+    --branco: #FFFFFF;
+}
+
+Classic-Banking{
+    --azul-marinho: #34495E;
+    --dourado: #F1C40F;
+    --cinza-medio: #7F8C8D;
+    --branco: #ECF0F1;
+    --azul-claro: #5DADE2;
+}
+
+Futuristic-Crypto{
+    --roxo-escuro: #2C3E50;
+    --roxo-neon: #8E44AD;
+    --verde-neon: #27AE60;
+    --preto: #1A1A1A;
+    --cinza-claro: #BDC3C7;
+}
+
+Minimalista{
+    --branco: #FFFFFF;
+    --preto: #000000;
+    --cinza-escuro: #2C3E50;
+    --cinza-claro: #BDC3C7;
+    --verde-pastel: #1ABC9C;
+}
